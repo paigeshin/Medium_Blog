@@ -2,7 +2,7 @@
 
 https://medium.com/@paigeshin1991
 
-# Interview
+# iOS Interview
 
 [Three tips for new ios developers, which lead to a five percent pay rise.](https://medium.com/@paigeshin1991/the-three-most-basic-job-interview-details-that-rookie-ios-developers-ignore-which-could-lead-to-c931ac528281)
 
@@ -11,6 +11,18 @@ https://medium.com/@paigeshin1991
 [Learn Swift Fundamentals by preparing for Job Interview, Question 8 ~ 13 For Data types](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-question-8-13-for-data-types-26dc0f81db2)
 
 [Learn Swift Fundamentals by preparing for Job Interview, Questions 14 ~ 16 For Operators](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-14-16-for-operators-dc12c6b30cb)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 17 ~ 19 For Conditional Statement](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-17-19-for-conditional-statement-5a6508fb3ce8)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 20~ 22 For Conditional Statement](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-20-22-for-conditional-statement-d9e1d76f208c)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 23~ 28 For Enum](https://paigeshin1991.medium.com/learn-swift-fundamentals-by-preparing-for-job-interview-questions-23-28-for-enum-44457ca32cfa)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 29~ 32 For Functions](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-29-32-for-functions-e46a7afa5763)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 33~ 35 For Functions](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-33-35-for-functions-88ca64b0e67e)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 36~ 38 For Struct](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-36-38-for-struct-6fc0eea05211)
 
 # iOS
 
@@ -24,11 +36,17 @@ https://medium.com/@paigeshin1991
 
 [Swift Size Class that can be understood in 3 seconds](https://medium.com/@paigeshin1991/swift-size-class-that-can-be-understood-in-3-seconds-with-bad-brains-2782953197f0)
 
+# Swift 
+
+[Swift Sort: Quick Swift Cool Tips Sort VS Sorted](https://medium.com/@paigeshin1991/swift-sort-quick-swift-cool-tips-sort-vs-sorted-9bb1886f1b1a)
+
 [Swift Multi-Threading, The Summary of DispatchQueues and OperationQueues](https://medium.com/@paigeshin1991/swift-multi-threading-the-summary-of-dispatchqueues-and-operationqueues-797587af4eca)
 
 [Highly intelligent iOS developers use enum with properties. Don’t make your code seem dull.](https://medium.com/@paigeshin1991/highly-intelligent-ios-developers-use-enum-with-properties-dont-make-your-code-seem-dull-c91961f0e22b)
 
 [Swift Pretty JSON DECODING with CodingKey in 2.8 seconds](https://medium.com/@paigeshin1991/swift-pretty-json-decoding-with-codingkey-in-2-8-seconds-48c7b4cdee6d)
+
+[Swift Subscript: The Easiest Explanation on Earth](https://medium.com/@paigeshin1991/swift-subscript-the-easiest-explanation-on-earth-5c5451a3a606)
 
 # XCode
 
@@ -47,6 +65,10 @@ https://medium.com/@paigeshin1991
 [Swift Tuist for iOS Developers, to become 0.1%. Part 1, Default Setup.](https://medium.com/@paigeshin1991/swift-tuist-for-ios-developers-to-become-0-1-part-1-81727b393037)
 
 [Swift Tuist for iOS Developers, to become 0.1%. Part 2, Manual Setup.](https://medium.com/@paigeshin1991/swift-tuist-for-ios-developers-to-become-0-1-part-2-manual-setup-c2c17ba9383a)
+
+[Swift Framework?? Modularize your project with ‘Swift Framework’ in 30 seconds!](https://medium.com/@paigeshin1991/swift-framework-modularize-your-project-with-swift-framework-in-30-seconds-f815048c6427)
+
+[Swift Package Manager Manifest File Tutorial: THAT Nobody Tells You About](https://medium.com/@paigeshin1991/swift-package-manager-manifest-file-tutorial-that-nobody-tells-you-about-e69781f582b2)
 
 # SEO 
 
@@ -80,3 +102,7 @@ https://medium.com/@paigeshin1991
 [Open Closed Principle: Make your code cost-free and flexible](https://medium.com/@paigeshin1991/open-closed-principle-make-your-code-cost-free-and-flexible-49547c9a801a)
 
 [Liskov Substitution Principle: Top Developer’s technique which improves 2.5x the quality of your code](https://medium.com/@paigeshin1991/liskov-substitution-principle-top-developers-technique-which-improves-2-5x-d8af89e07afb)
+
+[Interface Segregation Principle: Your only way to be a super competent developer](https://medium.com/@paigeshin1991/interface-segregation-principle-your-only-way-to-be-a-super-competent-developer-698a7976e7f2)
+
+[Dependency Inversion Principle: How Google Developers write code](https://medium.com/@paigeshin1991/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
