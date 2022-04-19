@@ -52,9 +52,7 @@ https://medium.com/@paigeshin1991
 
 [How to clean up your xcode simulators which enormously take up your mac storage. Save developer’s MAC!](https://medium.com/@paigeshin1991/how-to-clean-up-your-xcode-simulators-which-enormously-take-up-your-mac-storage-912e470cc30b)
 
-[XCODE: Set up TDD environment with xcode’s 3 Hidden Features.
-[](https://medium.com/@paigeshin1991/swift-pretty-json-decoding-with-codingkey-in-2-8-seconds-48c7b4cdee6d)
-](https://medium.com/@paigeshin1991/xcode-set-up-test-environment-with-xcodes-3-hidden-features-32d1174ad83b)
+[XCODE: Set up TDD environment with xcode’s 3 Hidden Features.](https://medium.com/@paigeshin1991/swift-pretty-json-decoding-with-codingkey-in-2-8-seconds-48c7b4cdee6d)
 
 # SwiftUI
 
