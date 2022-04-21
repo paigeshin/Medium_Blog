@@ -104,3 +104,7 @@ https://medium.com/@paigeshin1991
 [Interface Segregation Principle: Your only way to be a super competent developer](https://medium.com/@paigeshin1991/interface-segregation-principle-your-only-way-to-be-a-super-competent-developer-698a7976e7f2)
 
 [Dependency Inversion Principle: How Google Developers write code](https://medium.com/@paigeshin1991/dependency-inversion-principle-how-google-developers-write-code-f6cbd3b530a6)
+
+# General Programming
+
+[Comments: How Google Developers write their comments](https://paigeshin1991.medium.com/comments-how-google-developers-write-their-comments-5443657ecc4b)
