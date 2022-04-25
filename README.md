@@ -24,6 +24,7 @@ https://medium.com/@paigeshin1991
 
 [Learn Swift Fundamentals by preparing for Job Interview, Questions 36~ 38 For Struct](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-36-38-for-struct-6fc0eea05211)
 
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 39 ~ 44 For Initializer](https://paigeshin1991.medium.com/learn-swift-fundamentals-by-preparing-for-job-interview-questions-39-44-for-initializer-4c8abb0ff4eb)
 
 # iOS
 
