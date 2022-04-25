@@ -24,6 +24,7 @@ https://medium.com/@paigeshin1991
 
 [Learn Swift Fundamentals by preparing for Job Interview, Questions 36~ 38 For Struct](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-36-38-for-struct-6fc0eea05211)
 
+
 # iOS
 
 [How to use Preprocessor Statement in Swift Project. Skills of high-paying iOS developers.](https://medium.com/@paigeshin1991/how-to-use-preprocessor-statement-skills-of-high-paying-ios-developers-669fe20dcddd)
@@ -108,3 +109,5 @@ https://medium.com/@paigeshin1991
 # General Programming
 
 [Comments: How Google Developers write their comments](https://paigeshin1991.medium.com/comments-how-google-developers-write-their-comments-5443657ecc4b)
+
+[5 Misused Comments by developers that you should avoid at all cost!](https://paigeshin1991.medium.com/5-misused-comments-by-developers-that-you-should-avoid-at-all-cost-c9d85205abcc)
