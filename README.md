@@ -26,6 +26,8 @@ https://medium.com/@paigeshin1991
 
 [Learn Swift Fundamentals by preparing for Job Interview, Questions 39 ~ 44 For Initializer](https://paigeshin1991.medium.com/learn-swift-fundamentals-by-preparing-for-job-interview-questions-39-44-for-initializer-4c8abb0ff4eb)
 
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 45~ 48 For Initializer](https://paigeshin1991.medium.com/learn-swift-fundamentals-by-preparing-for-job-interview-questions-45-48-for-initializer-15d4c7ff8804)
+
 # iOS
 
 [How to use Preprocessor Statement in Swift Project. Skills of high-paying iOS developers.](https://medium.com/@paigeshin1991/how-to-use-preprocessor-statement-skills-of-high-paying-ios-developers-669fe20dcddd)
