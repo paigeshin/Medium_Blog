@@ -28,6 +28,10 @@ https://medium.com/@paigeshin1991
 
 [Learn Swift Fundamentals by preparing for Job Interview, Questions 45~ 48 For Initializer](https://paigeshin1991.medium.com/learn-swift-fundamentals-by-preparing-for-job-interview-questions-45-48-for-initializer-15d4c7ff8804)
 
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 49~ 51 For Closure](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-49-51-for-closure-6da843ac04c8)
+
+[Learn Swift Fundamentals by preparing for Job Interview, Questions 52~ 55 For Closure](https://medium.com/@paigeshin1991/learn-swift-fundamentals-by-preparing-for-job-interview-questions-52-55-for-closure-efd366f2d626)
+
 # iOS
 
 [How to use Preprocessor Statement in Swift Project. Skills of high-paying iOS developers.](https://medium.com/@paigeshin1991/how-to-use-preprocessor-statement-skills-of-high-paying-ios-developers-669fe20dcddd)
@@ -52,11 +56,19 @@ https://medium.com/@paigeshin1991
 
 [Swift Subscript: The Easiest Explanation on Earth](https://medium.com/@paigeshin1991/swift-subscript-the-easiest-explanation-on-earth-5c5451a3a606)
 
+[Swift Higher Order Functions: map, filter, reduce. Write Code Like a ‘PROFESSIONAL DEVELOPER’](https://medium.com/@paigeshin1991/swift-higher-order-functions-map-filter-reduce-write-code-like-a-professional-developer-8dc3a7dc7de0)
+
+[Swift Higher Order Function: compactMap vs flatMap, Do you know the difference?](https://medium.com/@paigeshin1991/swift-higher-order-function-compactmap-vs-flatmap-do-you-know-the-difference-7a3b6944356c)
+
 # XCode
 
 [How to clean up your xcode simulators which enormously take up your mac storage. Save developer’s MAC!](https://medium.com/@paigeshin1991/how-to-clean-up-your-xcode-simulators-which-enormously-take-up-your-mac-storage-912e470cc30b)
 
 [XCODE: Set up TDD environment with xcode’s 3 Hidden Features.](https://medium.com/@paigeshin1991/swift-pretty-json-decoding-with-codingkey-in-2-8-seconds-48c7b4cdee6d)
+
+# iOS Combine
+
+[Swift Combine: first() operator, return only a single value!](https://medium.com/@paigeshin1991/swift-combine-first-operator-return-only-a-single-value-d658200779c5)
 
 # SwiftUI
 
